@@ -8,8 +8,24 @@
 
 
 <url>
-  <loc>http://equinoxsavvy.cf/</loc>
-  <lastmod>2018-11-19T17:08:56+00:00</lastmod>
+  <loc>https://oldneptune.github.io/</loc>
+  <lastmod>2018-11-19T19:02:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://oldneptune.github.io/index.html</loc>
+  <lastmod>2018-11-19T19:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oldneptune.github.io/about.html</loc>
+  <lastmod>2018-11-19T19:02:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://oldneptune.github.io/services.html</loc>
+  <lastmod>2018-11-19T19:02:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
